@@ -1,0 +1,27 @@
+COMP3134 - Lab 01
+Veronyque Lemieux, 101106553
+
+Q1. What is the definition of server ports?
+- Endpoint to a logical connection and the way a client program specifies a specific server program on a computer in a network
+
+Q2. What is server port range?
+- number ranging from 0 to 65535
+
+Q3. How many bits does number above represent?
+- 16 bit
+
+Q4. State 10 common server ports.
+- 20: FTP Data
+- 21: FTP Control
+- 22: SSH Remote Login Protocol
+- 23: Telnet
+- 25: SMTP
+- 53: DNS
+- 69: TFTP
+- 80: HTTP
+- 110: POP3
+- 143: IMAP
+
+References:
+https://www.webopedia.com/quick_ref/portnumbers.asp 
+https://en.wikipedia.org/wiki/Port_(computer_networking)
