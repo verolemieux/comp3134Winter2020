@@ -1,0 +1,12 @@
+$ ping 138.197.140.18
+
+Pinging 138.197.140.18 with 32 bytes of data:
+Reply from 138.197.140.18: bytes=32 time=12ms TTL=58
+Reply from 138.197.140.18: bytes=32 time=8ms TTL=58
+Reply from 138.197.140.18: bytes=32 time=4ms TTL=58
+Reply from 138.197.140.18: bytes=32 time=38ms TTL=58
+
+Ping statistics for 138.197.140.18:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 38ms, Average = 15ms

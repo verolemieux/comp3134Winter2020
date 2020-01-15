@@ -1,0 +1,213 @@
+1. jonahgroup.com
+
+Domain Information
+Name: JONAHGROUP.COM
+Registry Domain ID: 71408612_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+DNS1.EASYDNS.COM
+DNS2.EASYDNS.NET
+DNS3.EASYDNS.ORG
+NS1.DREAMLABS.COM
+Dates
+Registry Expiration: 2022-05-26 19:22:20 UTC
+Created: 2001-05-26 19:22:20 UTC
+
+Registrar Information
+Name: easyDNS Technologies Inc.
+IANA ID: 469
+
+DNSSEC Information
+Delegation Signed: Signed
+Delegation Signer Data:
+Key Tag:  
+32434
+Algorithm:  
+8
+Digest Type:  
+2
+Digest:  
+CDACEC2757946FEA2C6C9980F043FFBFB9FB5D57490ADF86CB2E3A1877B3FEA8
+Key Tag:  
+32434
+Algorithm:  
+8
+Digest Type:  
+1
+Digest:  
+FABC5206563F68959A19D652024C49574BF10B9F
+
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/jonahgroup.com
+Last updated from Registry RDAP DB: 2020-01-15 06:45:09 UTC
+Registrar Server URL: https://easydns.rdap.tucows.com/domain/JONAHGROUP.COM
+
+---------------------------------------------
+2. vikramsharma.com
+
+Domain Information
+Name: VIKRAMSHARMA.COM
+Registry Domain ID: 1734331890_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+ns11.domaincontrol.com
+ns12.domaincontrol.com
+Dates
+Registry Expiration: 2020-07-17 16:43:04 UTC
+Registrar Expiration: 2020-07-17 11:43:04 UTC
+Created: 2012-07-17 16:43:04 UTC
+
+Contact Information
+Registrant:
+Organization: Domains By Proxy, LLC
+Mailing Address: Arizona, United States
+Technical:
+Organization: Domains By Proxy, LLC
+Mailing Address: Arizona, United States
+Administrative:
+Organization: Domains By Proxy, LLC
+Mailing Address: Arizona, United States
+Billing:
+Organization: Domains By Proxy, LLC
+Mailing Address: Arizona, United States
+Redacted for privacy: some of the data in this object has been removed.
+
+Registrar Information
+Name: GoDaddy.com, LLC
+IANA ID: 146
+Abuse Contact Email: abuse@godaddy.com
+Abuse Contact Phone: tel:480-624-2505
+
+DNSSEC Information
+Delegation Signed: Unsigned
+
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/vikramsharma.com
+Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+Registrar Server URL: https://rdap.godaddy.com/v1/domain/VIKRAMSHARMA.COM
+Last updated from Registrar RDAP DB: 2020-01-15 12:25:59 UTC
+
+---------------------------------------------
+
+3. pinotte.com
+
+Domain Information
+Name: PINOTTE.COM
+Registry Domain ID: 291435029_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+NS1.DOMAINRECOVER.COM
+NS2.DOMAINRECOVER.COM
+Dates
+Registry Expiration: 2020-12-19 23:56:21 UTC
+Created: 2005-12-19 23:56:21 UTC
+
+Registrar Information
+Name: Nicco Ltd.
+IANA ID: 840
+Abuse Contact Email: accreditation@nicco.com
+Abuse Contact Phone: tel:+79216439380
+
+DNSSEC Information
+Delegation Signed: Unsigned
+
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/pinotte.com
+Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+Registrar Server URL: https://rdap.nicco.com/domain/PINOTTE.COM
+
+---------------------------------------------
+
+4. github.com
+
+Domain Information
+Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+ns-1283.awsdns-32.org
+ns-1707.awsdns-21.co.uk
+ns1.p16.dynect.net
+ns2.p16.dynect.net
+ns3.p16.dynect.net
+ns-421.awsdns-52.com
+ns4.p16.dynect.net
+ns-520.awsdns-01.net
+Dates
+Registry Expiration: 2020-10-09 18:20:50 UTC
+Registrar Expiration: 2020-10-09 18:20:50 UTC
+Created: 2007-10-09 18:20:50 UTC
+
+Contact Information
+Registrant:
+Organization: GitHub, Inc.
+Mailing Address: CA, US
+Technical:
+Mailing Address: CA, US
+Administrative:
+Mailing Address: CA, US
+Redacted for privacy: some of the data in this object has been removed.
+
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: +1.2083895770
+
+DNSSEC Information
+Delegation Signed: Unsigned
+
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/github.com
+Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/GITHUB.COM
+Last updated from Registrar RDAP DB: 2020-01-15 12:53:45 UTC
+
+---------------------------------------------
+
+5. cscdgr.education
+
+Domain Information
+Name: cscdgr.education
+Internationalized Domain Name: cscdgr.education
+Registry Domain ID: c19d3e82d3e44053921f69059aec2cb1-DONUTS
+Domain Status:
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+ns1.io-servers.com
+ns2.io-servers.com
+Dates
+Registry Expiration: 2020-08-22 16:04:18 UTC
+Updated: 2019-12-30 17:20:40 UTC
+Created: 2014-08-22 16:04:18 UTC
+
+Contact Information
+Registrant:
+Organization: CSCDGR
+Mailing Address: Ontario, CA
+Technical:
+Administrative:
+Redacted for privacy: some of the data in this object has been removed.
+
+Registrar Information
+Name: Tucows Domains Inc.
+IANA ID: 69
+Abuse Contact Email: domainabuse@tucows.com
+Abuse Contact Phone: tel:416.535.0123x1283
+
+Authoritative Servers
+Registry Server URL: https://rdap.donuts.co/rdap/domain/cscdgr.education
+Last updated from Registry RDAP DB: 2020-01-15 12:52:33 UTC

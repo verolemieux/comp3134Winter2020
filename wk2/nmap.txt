@@ -1,0 +1,72 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap 50.116.84.68
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 18:10 UTC
+Nmap scan report for ns1592.websitewelcome.com (50.116.84.68)
+Host is up (0.041s latency).
+Not shown: 985 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+25/tcp   open  smtp
+26/tcp   open  rsftp
+53/tcp   open  domain
+80/tcp   open  http
+110/tcp  open  pop3
+143/tcp  open  imap
+443/tcp  open  https
+465/tcp  open  smtps
+587/tcp  open  submission
+993/tcp  open  imaps
+995/tcp  open  pop3s
+2222/tcp open  EtherNetIP-1
+3306/tcp open  mysql
+
+Nmap done: 1 IP address (1 host up) scanned in 1.99 seconds
+
+-------------------------------------------------
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 110 34.200.39.99
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 18:12 UTC
+Nmap scan report for ec2-34-200-39-99.compute-1.amazonaws.com (34.200.39.99)
+Host is up (0.034s latency).
+
+PORT    STATE    SERVICE
+110/tcp filtered pop3
+
+Nmap done: 1 IP address (1 host up) scanned in 0.68 seconds
+
+
+-------------------------------------------------
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 60-100 198.72.99.177
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 18:13 UTC
+Nmap scan report for 6dd094e6.vps.io-servers.net (198.72.99.177)
+Host is up (0.0089s latency).
+Not shown: 40 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.07 seconds
+
+
+-------------------------------------------------
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F 129.97.208.23
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 18:13 UTC
+Nmap scan report for wms.uwaterloo.ca (129.97.208.23)
+Host is up (0.0038s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.43 seconds
+
+
+
+
+
+
