@@ -1,0 +1,41 @@
+Testing and Exploiting SQL Vulnerabilities
+
+USING getusers_1.php:
+
+Q1. "Ben"
+
+Query becomes:  "SELECT * FROM users WHERE firstname='Ben' and active='1'"
+0 rows are returned (as expected) because although a user does exist with the first 
+name 'Ben', the query only returns rows where the 'active' column is equal to 1. 
+
+
+Q2. "Ben'-- "
+
+Query becomes: 	"SELECT * FROM users WHERE firstname='Ben'-- ' and active='1'"
+1 row is returned (not as expected) because the gibberish added after the user's name
+is actually commenting out the rest of the query. Therefore, the query returns any
+user with the first name 'Ben' regardless of the 'active' column's value. 
+
+
+Q3. "Ben' or 1=1"
+
+Query becomes: "SELECT * FROM users WHERE firstname='Ben' or 1=1' and active='1'"
+0 rows are returned (as epected) and an SQL syntax error arises since the input is not being
+sanitized. The input adds gibberish (or 1=1') in the middle of the query which 
+breaks it. 
+If we were to insert something like this "Ben' or '1'='1" instead, we could retrieve all rows
+in the table where the 'firstname' column is equal to 'Ben' AND all rows in the table where the 
+'active' column is equal to 1 because the first condition will always evaluate to true (1=1).
+
+
+USING getusers_2.php: 
+
+Q1. "Ben"
+0 rows are returned (as expected)
+
+Q2. "Ben'-- "
+0 rows are returned (as expected)
+
+Q3. "Ben' or 1=1"
+0 rows are returned (as expected) 
+
